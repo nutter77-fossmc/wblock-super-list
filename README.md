@@ -2,15 +2,6 @@
 
 Aggressive ad/tracker/annoyance filters + userscripts for wBlock on macOS & iOS Safari.
 
-Very nuclear. Google, YouTube, Meta, Apple etc. get personally roasted.
-
-## Structure
-
-- filters/ — Main filter lists (import into wBlock)
-- userscripts/ — Dark mode + roast banners
-- tools/ — Panic button
-- scripts/ — Old generator scripts (for reference)
-
 ## Installation
 
 1. Open wBlock
